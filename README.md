@@ -17,7 +17,7 @@ $ cd intercom-problem
 $ bundle install
 $ ruby invite.rb
 
-**Output**
+Output:
 User Id: 4, name: Ian Kehoe
 User Id: 5, name: Nora Dempsey
 User Id: 6, name: Theresa Enright
