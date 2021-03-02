@@ -17,6 +17,24 @@ $ cd intercom-problem
 $ bundle install
 $ ruby invite.rb
 
+**Output**
+User Id: 4, name: Ian Kehoe
+User Id: 5, name: Nora Dempsey
+User Id: 6, name: Theresa Enright
+User Id: 8, name: Eoin Ahearn
+User Id: 11, name: Richard Finnegan
+User Id: 12, name: Christina McArdle
+User Id: 13, name: Olive Ahearn
+User Id: 15, name: Michael Ahearn
+User Id: 17, name: Patricia Cahill
+User Id: 23, name: Eoin Gallagher
+User Id: 24, name: Rose Enright
+User Id: 26, name: Stephen McArdle
+User Id: 29, name: Oliver Ahearn
+User Id: 30, name: Nick Enright
+User Id: 31, name: Alan Behan
+User Id: 39, name: Lisa Ahearn
+
 ```
 
 ## How to Run Spec
